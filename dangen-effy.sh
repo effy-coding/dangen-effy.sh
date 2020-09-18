@@ -24,6 +24,9 @@ sudo spctl --master-enable
 # Off mouse acceleration
 defaults write .GlobalPreferences com.apple.mouse.scaling -1
 
+# Off Press and Hold
+defaults write -g ApplePressAndHoldEnabled -bool false
+
 # Set keyboard repeat rate
 defaults write -g InitialKeyRepeat -int 10
 defaults write -g KeyRepeat -int 1
