@@ -91,6 +91,7 @@ sudo mv ./kubectl /usr/local/bin/kubectl
 brew install minikube
 brew install k9s
 
+echo "alias k=kubectl" >> ~/.zshrc
 echo "source <(kubectl completion zsh)" >> ~/.zshrc
 
 # Install Hugo
