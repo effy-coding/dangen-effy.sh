@@ -89,3 +89,5 @@ chmod +x ./kubectl
 sudo mv ./kubectl /usr/local/bin/kubectl
 brew install minikube
 brew install k9s
+
+echo "source <(kubectl completion zsh)" >> ~/.zshrc
