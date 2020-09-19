@@ -72,8 +72,9 @@ curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubuserc
 
 brew cask install visual-studio-code
 
-# Install elixir
+# Install elixir and go
 brew install elixir
+brew install golang
 
 # Install nvm & node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
@@ -91,3 +92,6 @@ brew install minikube
 brew install k9s
 
 echo "source <(kubectl completion zsh)" >> ~/.zshrc
+
+# Install Hugo
+brew install hugo
