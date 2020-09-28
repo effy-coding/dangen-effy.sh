@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {
+      "editorCursor.foreground": "#1fff9a",
+      "terminalCursor.foreground": "#1fff9a",
+      "editor.selectionBackground": "#858585ab"
+  },
+  "editor.tokenColorCustomizations": {
+      "comments": "#fcfa74"
+  }
+}
