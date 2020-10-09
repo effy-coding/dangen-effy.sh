@@ -56,7 +56,7 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 brew install neovim
 
 # Set vim editor
-cat << EOF > ~/.zshrc
+cat << EOF >> ~/.zshrc
 alias vim="nvim"
 alias vi="nvim"
 alias vimdiff="nvim -d"
