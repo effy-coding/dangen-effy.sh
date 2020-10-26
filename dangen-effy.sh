@@ -94,5 +94,9 @@ brew install k9s
 echo "alias k=kubectl" >> ~/.zshrc
 echo "source <(kubectl completion zsh)" >> ~/.zshrc
 
+# Install terraform
+brew install terraform
+echo "alias tf=terraform" >> ~/.zshrc
+
 # Install Hugo
 brew install hugo
