@@ -1,15 +1,19 @@
 {
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Monokai Dimmed",
-  "workbench.startupEditor": "newUntitledFile",
-  "window.zoomLevel": 0,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.colorCustomizations": {
-      "editorCursor.foreground": "#1fff9a",
-      "terminalCursor.foreground": "#1fff9a",
-      "editor.selectionBackground": "#858585ab"
-  },
-  "editor.tokenColorCustomizations": {
-      "comments": "#fcfa74"
-  }
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 3,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#1fff9a",
+        "terminalCursor.foreground": "#1fff9a",
+        "editor.selectionBackground": "#858585ab",
+        "editor.selectionForeground": "#fcfa74",
+        "editorIndentGuide.activeBackground": "#1fff9a",
+        "editorIndentGuide.background": "#858585ab"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#fcfa74"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false
 }
