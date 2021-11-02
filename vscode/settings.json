@@ -1,7 +1,7 @@
 {
     "workbench.colorTheme": "Default High Contrast",
     "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 3,
+    "window.zoomLevel": 5,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "workbench.colorCustomizations": {
         "editorCursor.foreground": "#1fff9a",
@@ -14,6 +14,7 @@
     "editor.tokenColorCustomizations": {
         "comments": "#fcfa74"
     },
+    "editor.lineNumbers": "relative",
     "workbench.iconTheme": "material-icon-theme",
     "explorer.confirmDelete": false
 }
