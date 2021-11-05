@@ -16,5 +16,6 @@
     },
     "editor.lineNumbers": "relative",
     "workbench.iconTheme": "material-icon-theme",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true
 }
