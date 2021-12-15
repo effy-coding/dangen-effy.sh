@@ -9,7 +9,9 @@
         "editor.selectionBackground": "#858585ab",
         "editor.selectionForeground": "#fcfa74",
         "editorIndentGuide.activeBackground": "#1fff9a",
-        "editorIndentGuide.background": "#858585ab"
+        "editorIndentGuide.background": "#858585ab",
+        "editorLineNumber.activeForeground": "#1fff9a",
+        "editorLineNumber.foreground": "#858585ab",
     },
     "editor.tokenColorCustomizations": {
         "comments": "#fcfa74"
