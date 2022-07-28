@@ -13,6 +13,7 @@
     "editorLineNumber.foreground": "#858585ab",
     "activityBar.background": "#000000",
     "panel.border": "#ffffff95",
+    "editorGroup.border": "#6169bdaa",
     "tab.activeBorderTop": "#ff000000",
     "contrastActiveBorder": "#ffffff"
   },
