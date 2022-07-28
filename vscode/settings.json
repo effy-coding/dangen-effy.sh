@@ -10,7 +10,11 @@
     "editorIndentGuide.activeBackground": "#1fff9a",
     "editorIndentGuide.background": "#858585ab",
     "editorLineNumber.activeForeground": "#1fff9a",
-    "editorLineNumber.foreground": "#858585ab"
+    "editorLineNumber.foreground": "#858585ab",
+    "activityBar.background": "#000000",
+    "panel.border": "#ffffff95",
+    "tab.activeBorderTop": "#ff000000",
+    "contrastActiveBorder": "#ffffff"
   },
   "editor.tokenColorCustomizations": {
     "comments": "#fcfa74"
