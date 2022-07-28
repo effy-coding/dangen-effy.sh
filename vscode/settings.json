@@ -1,23 +1,33 @@
 {
-    "workbench.colorTheme": "Default High Contrast",
-    "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 5,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "workbench.colorCustomizations": {
-        "editorCursor.foreground": "#1fff9a",
-        "terminalCursor.foreground": "#1fff9a",
-        "editor.selectionBackground": "#858585ab",
-        "editor.selectionForeground": "#fcfa74",
-        "editorIndentGuide.activeBackground": "#1fff9a",
-        "editorIndentGuide.background": "#858585ab",
-        "editorLineNumber.activeForeground": "#1fff9a",
-        "editorLineNumber.foreground": "#858585ab",
-    },
-    "editor.tokenColorCustomizations": {
-        "comments": "#fcfa74"
-    },
-    "editor.lineNumbers": "relative",
-    "workbench.iconTheme": "material-icon-theme",
-    "explorer.confirmDelete": false,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#1fff9a",
+    "terminalCursor.foreground": "#1fff9a",
+    "editor.selectionBackground": "#858585ab",
+    "editor.selectionForeground": "#fcfa74",
+    "editorIndentGuide.activeBackground": "#1fff9a",
+    "editorIndentGuide.background": "#858585ab",
+    "editorLineNumber.activeForeground": "#1fff9a",
+    "editorLineNumber.foreground": "#858585ab"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#fcfa74"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "redhat.telemetry.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 2,
+  "editor.formatOnSave": true,
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform",
     "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.tfvars": "terraform"
+  }
 }
