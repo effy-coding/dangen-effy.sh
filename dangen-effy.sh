@@ -100,3 +100,5 @@ echo "alias tf=terraform" >> ~/.zshrc
 
 # Install Hugo
 brew install hugo
+
+brew install bat
