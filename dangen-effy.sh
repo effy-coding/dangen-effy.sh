@@ -102,3 +102,4 @@ echo "alias tf=terraform" >> ~/.zshrc
 brew install hugo
 
 brew install bat
+brew install ripgrep
